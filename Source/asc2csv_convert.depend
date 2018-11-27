@@ -1,0 +1,675 @@
+# depslib dependency file v1.0
+1512570682 source:f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert\analyse_dbc.c
+	"main.h"
+
+1519458292 f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert\main.h
+	<stdio.h>
+	<stdlib.h>
+	<io.h>
+	<dir.h>
+	<unistd.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<winver.h>
+	"discription.h"
+
+1517561392 source:f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert\convert_asc.c
+	"main.h"
+
+1512571741 source:f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert\get_files_list.c
+	"main.h"
+
+1519454935 source:f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert\icon.rc
+	"main.h"
+
+1519454547 source:f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert\main.c
+	"main.h"
+
+1512570227 source:f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert\signals_index_create.c
+	"main.h"
+
+1519458042 source:f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert\discription.c
+	"discription.h"
+
+1519458146 f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert\discription.h
+	<stdio.h>
+	<stdlib.h>
+
+1519457769 f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert\file_list_get.h
+	<io.h>
+
+1519458177 source:f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert\file_list_get.c
+	"file_list_get.h"
+
+1519526909 source:f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert-new-2018-02-25\analyse_dbc.c
+	"main.h"
+
+1519549608 f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert-new-2018-02-25\main.h
+	<stdio.h>
+	<stdlib.h>
+	<io.h>
+	<dir.h>
+	<unistd.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<winver.h>
+	"discription.h"
+	"chose_file_handle.h"
+	"dir_creat.h"
+	"file_list_get.h"
+	"set_inf_name.h"
+
+1519542001 f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert-new-2018-02-25\discription.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1519551960 source:f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert-new-2018-02-25\convert_asc.c
+	"main.h"
+	"progress_bar.h"
+
+1519541983 source:f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert-new-2018-02-25\discription.c
+	"discription.h"
+	"console_color.h"
+
+1512571741 source:f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert-new-2018-02-25\get_files_list.c
+	"main.h"
+
+1519454935 source:f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert-new-2018-02-25\icon.rc
+	"main.h"
+
+1519544394 source:f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert-new-2018-02-25\main.c
+	"main.h"
+
+1519529630 source:f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert-new-2018-02-25\signals_index_create.c
+	"main.h"
+
+1519549703 source:f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert-new-2018-02-25\chose_file_handle.c
+	"chose_file_handle.h"
+	"console_color.h"
+	"discription.h"
+
+1519549749 f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert-new-2018-02-25\chose_file_handle.h
+	<stdio.h>
+	<unistd.h>
+	<windows.h>
+
+1519523900 source:f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert-new-2018-02-25\file_list_get.c
+	"file_list_get.h"
+
+1519528148 f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert-new-2018-02-25\file_list_get.h
+	<io.h>
+	<unistd.h>
+	<windows.h>
+
+1519543923 f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert-new-2018-02-25\dir_creat.h
+	<stdlib.h>
+	<stdio.h>
+	<io.h>
+
+1519549887 f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert-new-2018-02-25\set_inf_name.h
+
+1519529347 source:f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert-new-2018-02-25\dir_creat.c
+	"dir_creat.h"
+
+1519549887 source:f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert-new-2018-02-25\set_inf_name.c
+	<string.h>
+	"main.h"
+
+1519542030 source:f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert-new-2018-02-25\console_color.c
+	"console_color.h"
+
+1519538086 f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert-new-2018-02-25\console_color.h
+	<stdio.h>
+	<windows.h>
+	<time.h>
+
+1519548154 source:f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert-new-2018-02-25\analyse_inf_dbc.c
+	"main.h"
+
+1519551668 source:f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert-new-2018-02-25\progress_bar.c
+	"progress_bar.h"
+
+1519551934 f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert-new-2018-02-25\progress_bar.h
+	<string.h>
+	<stdio.h>
+	<windows.h>
+
+1519548154 source:e:\my_programs\asc2csv_convert-new-2018-02-25\analyse_inf_dbc.c
+	"main.h"
+
+1519549608 e:\my_programs\asc2csv_convert-new-2018-02-25\main.h
+	<stdio.h>
+	<stdlib.h>
+	<io.h>
+	<dir.h>
+	<unistd.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<winver.h>
+	"discription.h"
+	"chose_file_handle.h"
+	"dir_creat.h"
+	"file_list_get.h"
+	"set_inf_name.h"
+
+1519542001 e:\my_programs\asc2csv_convert-new-2018-02-25\discription.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1519549749 e:\my_programs\asc2csv_convert-new-2018-02-25\chose_file_handle.h
+	<stdio.h>
+	<unistd.h>
+	<windows.h>
+
+1519543923 e:\my_programs\asc2csv_convert-new-2018-02-25\dir_creat.h
+	<stdlib.h>
+	<stdio.h>
+	<io.h>
+
+1519528148 e:\my_programs\asc2csv_convert-new-2018-02-25\file_list_get.h
+	<io.h>
+	<unistd.h>
+	<windows.h>
+
+1519549887 e:\my_programs\asc2csv_convert-new-2018-02-25\set_inf_name.h
+
+1519549703 source:e:\my_programs\asc2csv_convert-new-2018-02-25\chose_file_handle.c
+	"chose_file_handle.h"
+	"console_color.h"
+	"discription.h"
+
+1519538086 e:\my_programs\asc2csv_convert-new-2018-02-25\console_color.h
+	<stdio.h>
+	<windows.h>
+	<time.h>
+
+1519542030 source:e:\my_programs\asc2csv_convert-new-2018-02-25\console_color.c
+	"console_color.h"
+
+1519529347 source:e:\my_programs\asc2csv_convert-new-2018-02-25\dir_creat.c
+	"dir_creat.h"
+
+1519541983 source:e:\my_programs\asc2csv_convert-new-2018-02-25\discription.c
+	"discription.h"
+	"console_color.h"
+
+1519523900 source:e:\my_programs\asc2csv_convert-new-2018-02-25\file_list_get.c
+	"file_list_get.h"
+
+1519454935 source:e:\my_programs\asc2csv_convert-new-2018-02-25\icon.rc
+	"main.h"
+
+1519544394 source:e:\my_programs\asc2csv_convert-new-2018-02-25\main.c
+	"main.h"
+
+1519558832 source:e:\my_programs\asc2csv_convert-new-2018-02-25\progress_bar.c
+	"progress_bar.h"
+
+1519551934 e:\my_programs\asc2csv_convert-new-2018-02-25\progress_bar.h
+	<string.h>
+	<stdio.h>
+	<windows.h>
+
+1519549887 source:e:\my_programs\asc2csv_convert-new-2018-02-25\set_inf_name.c
+	<string.h>
+	"main.h"
+
+1519529630 source:e:\my_programs\asc2csv_convert-new-2018-02-25\signals_index_create.c
+	"main.h"
+
+1519558750 source:e:\my_programs\asc2csv_convert-new-2018-02-25\convert_asc.c
+	"main.h"
+	"progress_bar.h"
+
+1519610009 source:f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert-new-2018-02-26\analyse_inf_dbc.c
+	"main.h"
+	"progress_bar.h"
+
+1519549608 f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert-new-2018-02-26\main.h
+	<stdio.h>
+	<stdlib.h>
+	<io.h>
+	<dir.h>
+	<unistd.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<winver.h>
+	"discription.h"
+	"chose_file_handle.h"
+	"dir_creat.h"
+	"file_list_get.h"
+	"set_inf_name.h"
+
+1519632414 f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert-new-2018-02-26\discription.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1519606586 f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert-new-2018-02-26\chose_file_handle.h
+	<stdio.h>
+	<unistd.h>
+	<windows.h>
+
+1519543923 f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert-new-2018-02-26\dir_creat.h
+	<stdlib.h>
+	<stdio.h>
+	<io.h>
+
+1519528148 f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert-new-2018-02-26\file_list_get.h
+	<io.h>
+	<unistd.h>
+	<windows.h>
+
+1519549887 f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert-new-2018-02-26\set_inf_name.h
+
+1519542030 source:f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert-new-2018-02-26\console_color.c
+	"console_color.h"
+
+1519538086 f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert-new-2018-02-26\console_color.h
+	<stdio.h>
+	<windows.h>
+	<time.h>
+
+1519632085 source:f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert-new-2018-02-26\convert_asc.c
+	"main.h"
+	"progress_bar.h"
+
+1519631815 f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert-new-2018-02-26\progress_bar.h
+	<string.h>
+	<stdio.h>
+	<windows.h>
+
+1519529347 source:f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert-new-2018-02-26\dir_creat.c
+	"dir_creat.h"
+
+1519541983 source:f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert-new-2018-02-26\discription.c
+	"discription.h"
+	"console_color.h"
+
+1519523900 source:f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert-new-2018-02-26\file_list_get.c
+	"file_list_get.h"
+
+1519454935 source:f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert-new-2018-02-26\icon.rc
+	"main.h"
+
+1519632328 source:f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert-new-2018-02-26\progress_bar.c
+	"progress_bar.h"
+
+1519549887 source:f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert-new-2018-02-26\set_inf_name.c
+	<string.h>
+	"main.h"
+
+1519610283 source:f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert-new-2018-02-26\signals_index_create.c
+	"main.h"
+
+1519630894 source:f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert-new-2018-02-26\chose_file_handle.c
+	"chose_file_handle.h"
+	"console_color.h"
+	"discription.h"
+
+1519630914 source:f:\my_project\codeblocks_projects-20180210\asc2csv\asc2csv_convert-new-2018-02-26\main.c
+	"main.h"
+
+1519610009 source:f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-26-1\analyse_inf_dbc.c
+	"main.h"
+	"progress_bar.h"
+
+1519549608 f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-26-1\main.h
+	<stdio.h>
+	<stdlib.h>
+	<io.h>
+	<dir.h>
+	<unistd.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<winver.h>
+	"discription.h"
+	"chose_file_handle.h"
+	"dir_creat.h"
+	"file_list_get.h"
+	"set_inf_name.h"
+
+1519632414 f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-26-1\discription.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1519606586 f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-26-1\chose_file_handle.h
+	<stdio.h>
+	<unistd.h>
+	<windows.h>
+
+1519543923 f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-26-1\dir_creat.h
+	<stdlib.h>
+	<stdio.h>
+	<io.h>
+
+1519528148 f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-26-1\file_list_get.h
+	<io.h>
+	<unistd.h>
+	<windows.h>
+
+1519549887 f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-26-1\set_inf_name.h
+
+1519631815 f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-26-1\progress_bar.h
+	<string.h>
+	<stdio.h>
+	<windows.h>
+
+1519542030 source:f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-26-1\console_color.c
+	"console_color.h"
+
+1519538086 f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-26-1\console_color.h
+	<stdio.h>
+	<windows.h>
+	<time.h>
+
+1519529347 source:f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-26-1\dir_creat.c
+	"dir_creat.h"
+
+1519541983 source:f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-26-1\discription.c
+	"discription.h"
+	"console_color.h"
+
+1519523900 source:f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-26-1\file_list_get.c
+	"file_list_get.h"
+
+1519454935 source:f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-26-1\icon.rc
+	"main.h"
+
+1519630914 source:f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-26-1\main.c
+	"main.h"
+
+1519632328 source:f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-26-1\progress_bar.c
+	"progress_bar.h"
+
+1519549887 source:f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-26-1\set_inf_name.c
+	<string.h>
+	"main.h"
+
+1519610283 source:f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-26-1\signals_index_create.c
+	"main.h"
+
+1519633638 source:f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-26-1\chose_file_handle.c
+	"chose_file_handle.h"
+	"console_color.h"
+	"discription.h"
+
+1519633665 source:f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-26-1\convert_asc.c
+	"main.h"
+	"progress_bar.h"
+
+1519633638 source:f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-28\chose_file_handle.c
+	"chose_file_handle.h"
+	"console_color.h"
+	"discription.h"
+
+1519606586 f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-28\chose_file_handle.h
+	<stdio.h>
+	<unistd.h>
+	<windows.h>
+
+1519538086 f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-28\console_color.h
+	<stdio.h>
+	<windows.h>
+	<time.h>
+
+1519632414 f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-28\discription.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1519542030 source:f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-28\console_color.c
+	"console_color.h"
+
+1519529347 source:f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-28\dir_creat.c
+	"dir_creat.h"
+
+1519543923 f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-28\dir_creat.h
+	<stdlib.h>
+	<stdio.h>
+	<io.h>
+
+1519541983 source:f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-28\discription.c
+	"discription.h"
+	"console_color.h"
+
+1519523900 source:f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-28\file_list_get.c
+	"file_list_get.h"
+
+1519528148 f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-28\file_list_get.h
+	<io.h>
+	<unistd.h>
+	<windows.h>
+
+1519454935 source:f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-28\icon.rc
+	"main.h"
+
+1519787634 f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-28\main.h
+	<stdio.h>
+	<stdlib.h>
+	<io.h>
+	<dir.h>
+	<unistd.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<winver.h>
+	"discription.h"
+	"chose_file_handle.h"
+	"dir_creat.h"
+	"file_list_get.h"
+	"set_inf_name.h"
+
+1519549887 f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-28\set_inf_name.h
+
+1519632328 source:f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-28\progress_bar.c
+	"progress_bar.h"
+
+1519631815 f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-28\progress_bar.h
+	<string.h>
+	<stdio.h>
+	<windows.h>
+
+1519549887 source:f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-28\set_inf_name.c
+	<string.h>
+	"main.h"
+
+1519787694 source:f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-28\analyse_inf_dbc.c
+	"main.h"
+	"progress_bar.h"
+
+1519788123 source:f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-28\convert_asc.c
+	"main.h"
+	"progress_bar.h"
+
+1519787820 source:f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-28\main.c
+	"main.h"
+
+1519787694 source:f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-28-1\analyse_inf_dbc.c
+	"main.h"
+	"progress_bar.h"
+
+1519787634 f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-28-1\main.h
+	<stdio.h>
+	<stdlib.h>
+	<io.h>
+	<dir.h>
+	<unistd.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<winver.h>
+	"discription.h"
+	"chose_file_handle.h"
+	"dir_creat.h"
+	"file_list_get.h"
+	"set_inf_name.h"
+
+1519632414 f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-28-1\discription.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1519606586 f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-28-1\chose_file_handle.h
+	<stdio.h>
+	<unistd.h>
+	<windows.h>
+
+1519543923 f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-28-1\dir_creat.h
+	<stdlib.h>
+	<stdio.h>
+	<io.h>
+
+1519528148 f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-28-1\file_list_get.h
+	<io.h>
+	<unistd.h>
+	<windows.h>
+
+1519549887 f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-28-1\set_inf_name.h
+
+1519631815 f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-28-1\progress_bar.h
+	<string.h>
+	<stdio.h>
+	<windows.h>
+
+1519633638 source:f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-28-1\chose_file_handle.c
+	"chose_file_handle.h"
+	"console_color.h"
+	"discription.h"
+
+1519538086 f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-28-1\console_color.h
+	<stdio.h>
+	<windows.h>
+	<time.h>
+
+1519542030 source:f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-28-1\console_color.c
+	"console_color.h"
+
+1519788123 source:f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-28-1\convert_asc.c
+	"main.h"
+	"progress_bar.h"
+
+1519529347 source:f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-28-1\dir_creat.c
+	"dir_creat.h"
+
+1519523900 source:f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-28-1\file_list_get.c
+	"file_list_get.h"
+
+1519454935 source:f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-28-1\icon.rc
+	"main.h"
+
+1519787820 source:f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-28-1\main.c
+	"main.h"
+
+1519632328 source:f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-28-1\progress_bar.c
+	"progress_bar.h"
+
+1519549887 source:f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-28-1\set_inf_name.c
+	<string.h>
+	"main.h"
+
+1519803037 source:f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-28-1\signals_index_create.c
+	"main.h"
+
+1519803107 source:f:\my_project\codeblocks_projects-20180226\asc2csv\asc2csv_convert-new-2018-02-28-1\discription.c
+	"discription.h"
+	"console_color.h"
+
+1543331331 source:g:\007-github-c\canoe-asc2csv\source\analyse_inf_dbc.c
+	"main.h"
+	"progress_bar.h"
+
+1543330075 g:\007-github-c\canoe-asc2csv\source\main.h
+	<stdio.h>
+	<stdlib.h>
+	<io.h>
+	<dir.h>
+	<unistd.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<winver.h>
+	"discription.h"
+	"chose_file_handle.h"
+	"dir_creat.h"
+	"file_list_get.h"
+	"set_inf_name.h"
+
+1519632414 g:\007-github-c\canoe-asc2csv\source\discription.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1519606586 g:\007-github-c\canoe-asc2csv\source\chose_file_handle.h
+	<stdio.h>
+	<unistd.h>
+	<windows.h>
+
+1519543923 g:\007-github-c\canoe-asc2csv\source\dir_creat.h
+	<stdlib.h>
+	<stdio.h>
+	<io.h>
+
+1519528148 g:\007-github-c\canoe-asc2csv\source\file_list_get.h
+	<io.h>
+	<unistd.h>
+	<windows.h>
+
+1519549887 g:\007-github-c\canoe-asc2csv\source\set_inf_name.h
+
+1519631815 g:\007-github-c\canoe-asc2csv\source\progress_bar.h
+	<string.h>
+	<stdio.h>
+	<windows.h>
+
+1543331193 source:g:\007-github-c\canoe-asc2csv\source\chose_file_handle.c
+	"chose_file_handle.h"
+	"console_color.h"
+	"discription.h"
+
+1519538086 g:\007-github-c\canoe-asc2csv\source\console_color.h
+	<stdio.h>
+	<windows.h>
+	<time.h>
+
+1543331197 source:g:\007-github-c\canoe-asc2csv\source\console_color.c
+	"console_color.h"
+
+1543331204 source:g:\007-github-c\canoe-asc2csv\source\convert_asc.c
+	"main.h"
+	"progress_bar.h"
+
+1543331211 source:g:\007-github-c\canoe-asc2csv\source\dir_creat.c
+	"dir_creat.h"
+
+1543331220 source:g:\007-github-c\canoe-asc2csv\source\file_list_get.c
+	"file_list_get.h"
+
+1519454935 source:g:\007-github-c\canoe-asc2csv\source\icon.rc
+	"main.h"
+
+1543331230 source:g:\007-github-c\canoe-asc2csv\source\main.c
+	"main.h"
+
+1543331253 source:g:\007-github-c\canoe-asc2csv\source\progress_bar.c
+	"progress_bar.h"
+
+1543331258 source:g:\007-github-c\canoe-asc2csv\source\set_inf_name.c
+	<string.h>
+	"main.h"
+
+1543331271 source:g:\007-github-c\canoe-asc2csv\source\signals_index_create.c
+	"main.h"
+
+1543331166 source:g:\007-github-c\canoe-asc2csv\source\discription.c
+	"discription.h"
+	"console_color.h"
+

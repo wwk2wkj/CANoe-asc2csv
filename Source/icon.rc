@@ -1,0 +1,28 @@
+#include "main.h"
+
+A ICON MOVEABLE PURE LOADONCALL DISCARDABLE "mainicon.ico"
+
+1 VERSIONINFO
+FILEVERSION    VERSION_FIRST,VERSION_SECOND,VERSION_THIRD,VERSION_LAST
+PRODUCTVERSION VERSION_FIRST,VERSION_SECOND,VERSION_THIRD,VERSION_LAST
+
+FILETYPE VFT_APP
+{
+    BLOCK "StringFileInfo"
+    {
+        BLOCK "040904E4"
+        {
+            VALUE "CompanyName", "wwk"
+            VALUE "FileDescription", "Convert asc files to csv"
+            VALUE "InternalName", "JustConvert"
+            VALUE "LegalCopyright", "wwk"
+            VALUE "LegalTrademarks", " "
+            VALUE "OriginalFilename", "asc2csv_convert.exe"
+            VALUE "ProductName", "JustConvert"
+        }
+    }
+    BLOCK "VarFileInfo"
+    {
+        VALUE "Translation", 0x0409, 1252 //language codes
+    }
+}
